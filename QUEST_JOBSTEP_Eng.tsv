@@ -48,36 +48,36 @@ QUEST_JOBSTEP_20150317_000047	{memo X}Good work. {nl}You've done a good job as m
 QUEST_JOBSTEP_20150317_000048	{memo X}My research is about the methods of shifting psychokinesis to the substance of matter. {nl}In other words...It's a method of brainwashing by using medicine. 
 QUEST_JOBSTEP_20150317_000049	$Linker Master
 QUEST_JOBSTEP_20150317_000050	$Temperament is very important for Linkers. {nl}While it may be easy to shut out one's heart, opening it up requires a special kind of temperament. {nl}
-QUEST_JOBSTEP_20150317_000051	$I will test you to see if you have such temperament. 
-QUEST_JOBSTEP_20150317_000052	{memo X}Good. However, you must prepare some materials before taking the test.{nl}Bring me a Dunball’s thorn and Velwriggler’s carving at the Gate Route.[?]
-QUEST_JOBSTEP_20150317_000053	$Excellent! {nl}But this is just to prepare you for the test. {nl}
-QUEST_JOBSTEP_20150317_000054	{memo X}I will start the test now. {nl}Behind the Gate Route is a rip in the space of the world.{nl}
-QUEST_JOBSTEP_20150317_000055	$Normal people are only capable of seeing reality as is, but if you have the temperament of a Linker, {nl}you should be able to perceive a hidden world. {nl}Find the book from there and bring it to me. 
-QUEST_JOBSTEP_20150317_000056	{memo X}Have you gone there yet? {nl}Just go to the Gate Route and check. I’ve marked the location on the map.{nl}
-QUEST_JOBSTEP_20150317_000057	$Looks like you found the book. With this, you have passed my test. {nl} Nevertheless, please read that book to demonstrate your determination as a Linker. 
-QUEST_JOBSTEP_20150317_000058	$So you want me to teach you the skills of a Sapper... well then you must customarily pay a fee for my service. {nl}Not to me. But rather, I want you to give a donation to the Cleric Master in Klaipeda. {nl}Let's say, around 5000 silver? 
-QUEST_JOBSTEP_20150317_000059	{memo X}Wait, there’s one more thing. {nl}I hid some objects at Flude Island in the Siaulai Western Woods.{nl}Before you go to Klaipeda, find the objects first and return them to their original owners in Klaipeda.{nl}{nl} 
-QUEST_JOBSTEP_20150317_000060	$Oh, this. I saw it somewhere...hmm...it looks familiar...{nl}Well I'll take it with gratitude since you're giving it to me.
-QUEST_JOBSTEP_20150317_000061	$Ah, this is the tool I lost. {nl}Thanks. Where was it?
-QUEST_JOBSTEP_20150317_000062	$Did you forget about the donation? {nl}It's 5000 silver.
-QUEST_JOBSTEP_20150317_000063	$Cleric Master
-QUEST_JOBSTEP_20150317_000064	$Thank you, in the name of the Goddess.{nl}I promise the donations will be used for those injured by monsters. {nl}
-QUEST_JOBSTEP_20150317_000065	$I used to be a thief, but I came to realize certain things and I stopped my criminal life. {nl}But there is a small matter left on my mind... and I want to resolve it now. {nl}
-QUEST_JOBSTEP_20150317_000066	{memo X}Anyway, you did a good job. {nl}Let's cooperate from now on, teaching and learning from each other. 
-QUEST_JOBSTEP_20150317_000067	{memo X}I'm looking for a book. Four books by Lydia Schaffen. {nl}If you help me find the books, I will teach you my skills. 
-QUEST_JOBSTEP_20150317_000068	$The book used to be in Miners' Village, but it was lost when the Vubbes raided. {nl} Try visiting the Vubbe Outpost.
-QUEST_JOBSTEP_20150317_000069	$This is the book. You will need this book if you dream to be the best Archer. {nl}I will make you a copy if you can gather the entire book collection. 
-QUEST_JOBSTEP_20150317_000070	{memo X}$The Quarrel Shooter Master holds the next book. {nl}He was looking for Merog leather earlier. Maybe you can try making a deal with him using that.
-QUEST_JOBSTEP_20150317_000071	{memo X}Do you have the Merog leather yet from the Hunter Master?
-QUEST_JOBSTEP_20150317_000072	$This is of good quality. The Hunter Master will be pleased. {nl}You can take the book. {nl}
-QUEST_JOBSTEP_20150317_000073	{memo X}$Merogs are in the Fallen Worry Forest, and the Quarrel Shooter Master is in Klaipeda. {nl}Someone might get ahead of you, so better hurry.
-QUEST_JOBSTEP_20150317_000074	$The Archer Master in Klaipeda has the next book. {nl}He's not a mean person, so he will give you the book if you ask nicely. {nl}
-QUEST_JOBSTEP_20150317_000075	$He is helping with the repair of the damaged city wall. {nl}I heard the rocks are delivered from the Miners' Village, so bringing some to him can be a way to ask. 
-QUEST_JOBSTEP_20150317_000076	$Did the Hunter Master tell you to send this? {nl}If you're looking for Lydia Schaffen's book, you could have just asked. But thanks anyway. 
-QUEST_JOBSTEP_20150317_000077	$The last book is with the Ranger Master in Klaipeda. {nl}Give her this pouch. {nl}I could go myself, but we're not really comfortable seeing each other. 
-QUEST_JOBSTEP_20150317_000078	$Don't ask why. Work is work, and it's a fact that we don't want to see each other. 
-QUEST_JOBSTEP_20150317_000079	$This pouch...Did you come from the Hunter Master? {nl}Here. Take this book to her. 
-QUEST_JOBSTEP_20150317_000080	$Although that woman acted humble to you, she's pretty scary whenever she approaches me. 
+QUEST_JOBSTEP_20150317_000051	$Irei testa-lo para ver se tem tal temperamento. 
+QUEST_JOBSTEP_20150317_000052	{memo X}Bom. porém, você deve conseguir alguns materias antes de começar o teste.{nl}Traga um Espinho de Dunball e uma Escultura de Velwriggler na Estrada do Portão.[?]
+QUEST_JOBSTEP_20150317_000053	$Excelente! {nl}Mas isso é só para prepara-lo para o teste. {nl}
+QUEST_JOBSTEP_20150317_000054	{memo X}Vou começar o teste agora. {nl}Atrás da Estrada do Portão há um rasgo no espaço do mundo.{nl}
+QUEST_JOBSTEP_20150317_000055	$As pessoas normais só são capazes de ver a realidade como ela é, mas se você realmente tiver o temperamento de um Linker,{nl}você deve ser capaz de ver um mundo oculto.{nl}Encontre o livro de lá e traga-o para mim.
+QUEST_JOBSTEP_20150317_000056	{memo X}Você já foi lá? {nl}Basta ir para a Estrada do Portão e verificar. Eu marquei a localização no seu mapa.{nl}
+QUEST_JOBSTEP_20150317_000057	$Parece que você achou o livro. Com isso, você passou no meu teste. {nl} porém, por favor leia esse livro para demonstrar sua determinação como um Linker. 
+QUEST_JOBSTEP_20150317_000058	$Então você quer que eu te ensine as habilidades de um Sapper... então você terá que pagar uma taxa pelos meus serviços. {nl}Não para mim. mas, eu quero que você faça uma doação para o Mestre Clérigo em Klaipeda. {nl}Digamos, em volta de 5000 moedas de prata? 
+QUEST_JOBSTEP_20150317_000059	{memo X}Espere, tenho que te falar mais uma coisa. {nl} Eu escondi alguns objetos na Ilha Flude na Floresta Ocidental Siaulai.{nl}Antes de você ir para Klaipeda, encontre os objetos primeiro e os devolva para seus donos em Klaipeda.{nl}{nl} 
+QUEST_JOBSTEP_20150317_000060	$Ah, isso. eu vi isso em algum lugar...hmm...parece-me familiar...{nl}Bom eu irei ficar com isto com gratidão já que você esta dando para mim.
+QUEST_JOBSTEP_20150317_000061	$Ah, essa é a ferramenta que eu perdi. {nl}Obrigado. Onde ela estava?
+QUEST_JOBSTEP_20150317_000062	$Você esqueceu da doação? {nl}São 5000 moedas de prata.
+QUEST_JOBSTEP_20150317_000063	$Mestre Clérigo
+QUEST_JOBSTEP_20150317_000064	$Obrigado, em nome da deusa.{nl}Eu prometo que as doações serão usadas para aqueles feridos pelos monstros. {nl}
+QUEST_JOBSTEP_20150317_000065	$Eu era um ladrão, eu eu percebi certas coisas e parei com minha vida criminosa. {nl}Mas existe uma pequena questão na minha cabeça... e eu quero resolve-la agora. {nl}
+QUEST_JOBSTEP_20150317_000066	{memo X}De qualquer forma, você fez um ótimo trabalho. {nl}Vamos cooperar a partir de agora , ensinando e aprendendo uns com os outros.
+QUEST_JOBSTEP_20150317_000067	{memo X}Eu estou procurando por um livro. Quatro livros por Lydia Schaffen. {nl}Se você me ajudar a encontar os livros, eu irei ensinar minhas habilidades à você. 
+QUEST_JOBSTEP_20150317_000068	$O livro costumava ficar na Vila dos Mineradores, mas ele foi perdido quando os Vubbes invadiram. {nl} Tente ir ao Posto Avançado Vubbe.
+QUEST_JOBSTEP_20150317_000069	$Esse é o livro. Você precisará deste livro se você deseja ser o melhor Arqueiro. {nl}Eu irei fazer uma cópia para você se você conseguir a coleção inteira. 
+QUEST_JOBSTEP_20150317_000070	{memo X}$The Quarrel Shooter Master holds the next book. {nl}He was looking for Merog leather earlier. Maybe you can try making a deal with him using that. (Pending Text)
+QUEST_JOBSTEP_20150317_000071	{memo X}Você tem o Couro de Merog ainda do Mestre Caçador?
+QUEST_JOBSTEP_20150317_000072	$Isso é de boa qualidade. O Mestre Caçador ficará agradecido. {nl}Pode pegar o livro. {nl}
+QUEST_JOBSTEP_20150317_000073	{memo X}$Merogs are in the Fallen Worry Forest, and the Quarrel Shooter Master is in Klaipeda. {nl}Someone might get ahead of you, so better hurry. (Pending Text)
+QUEST_JOBSTEP_20150317_000074	$O Mestre Arqueiro em Klaipeda tem o próximo livro. {nl}Ele não é uma pessoa má, então ele lhe dará o livro se pedir gentilmente. {nl}
+QUEST_JOBSTEP_20150317_000075	$Ele está ajudando com o reparo do muro danificado da cidade. {nl}Eu ouvi que as pedras vem da Vila dos Mineradores, então trazer algumas para ele seria uma maneira de se aproximar. 
+QUEST_JOBSTEP_20150317_000076	$O Mestre caçador disse para você levar isso? {nl}Se você esta procurando o livro de Lydia Schaffen, você podia ter falado. Mas obrigado de qualquer maneira. 
+QUEST_JOBSTEP_20150317_000077	$O último livro está com a Mestre Ranger em Klaipeda. {nl}Entrega essa bolsa. {nl}Eu mesma poderia ir, Mas nós não nos sentimos confortáveis vendo um ao outro.
+QUEST_JOBSTEP_20150317_000078	$Não pergunte porque. Trabalho é trabalho, e esse é o motivo de não querermos nos ver. 
+QUEST_JOBSTEP_20150317_000079	$Essa bolsa... Você vem à mando da Mestre Caçadora? {nl}Aqui. Leve este livro para ela. 
+QUEST_JOBSTEP_20150317_000080	$Apesar de que agiu de forma humilde com você, ela é muito assustadora quando ela se aproxima de mim.
 QUEST_JOBSTEP_20150317_000081	$This will be enough leather. {nl}Bring them to the Quarrel Shooter Master before someone else does. 
 QUEST_JOBSTEP_20150317_000082	$This rock will be useful in repairing the wall. {nl}Bring it to the Archer Master quickly. 
 QUEST_JOBSTEP_20150317_000083	{memo X}$Are you the one who wants to learn my skills? {nl}Great, I was just looking for someone to help me find Lydia Schaffen's book. {nl}You're going to help, right? 
