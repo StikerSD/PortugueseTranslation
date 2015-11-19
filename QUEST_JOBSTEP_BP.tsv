@@ -55,25 +55,25 @@ QUEST_JOBSTEP_20150317_000054 {memo X}Vou começar o teste agora. {nl}Atrás do 
 QUEST_JOBSTEP_20150317_000055 $As pessoas normais só são capazes de ver a realidade como ela é, mas se você realmente tiver o temperamento de um Vinculador,{nl}você deve ser capaz de ver um mundo oculto.{nl}Encontre o livro de lá e traga-o para mim.
 QUEST_JOBSTEP_20150317_000056 {memo X}Você já foi lá? {nl}Basta ir para a Gate Route[#pending Gate Route] e verificar. Eu marquei a localização no seu mapa.{nl}
 QUEST_JOBSTEP_20150317_000057	$Parece que você achou o livro. Com isso, você passou no meu teste. {nl} porém, por favor leia esse livro para demonstrar sua determinação como um Vinculador. 
-QUEST_JOBSTEP_20150317_000058	$Então você quer que eu te ensine as habilidades de um Sapeador... então você terá que pagar uma taxa pelos meus serviços. {nl}Não para mim. mas, eu quero que você faça uma doação para o Cleric Master[#pending Cleric Master] em Klaipeda. {nl}Digamos, em volta de 5000 moedas de prata? 
+QUEST_JOBSTEP_20150317_000058	$Então você quer que eu te ensine as habilidades de um Sapeador... então você terá que pagar uma taxa pelos meus serviços. {nl}Não para mim. mas, eu quero que você faça uma doação para a Clériga Mestre em Klaipeda. {nl}Digamos, em volta de 5000 moedas de prata? 
 QUEST_JOBSTEP_20150317_000059	{memo X}Espere, tenho que te falar mais uma coisa. {nl} Eu escondi alguns objetos na Flude Island[#pending Flude Island] na Siaulai Western Woods[#pending Siaulai Western Woods].{nl}Antes de você ir para Klaipeda, encontre os objetos primeiro e os devolva para seus donos em Klaipeda.{nl}{nl} 
 QUEST_JOBSTEP_20150317_000060	$Ah, isso. eu vi isso em algum lugar...hmm...parece-me familiar...{nl}Bom eu irei ficar com isto com gratidão já que você esta dando para mim.
 QUEST_JOBSTEP_20150317_000061	$Ah, essa é a ferramenta que eu perdi. {nl}Obrigado. Onde ela estava?
 QUEST_JOBSTEP_20150317_000062	$Você esqueceu da doação? {nl}São 5000 moedas de prata.
-QUEST_JOBSTEP_20150317_000063	$Cleric Master[#pending Cleric Master]
+QUEST_JOBSTEP_20150317_000063	$Clériga Mestre
 QUEST_JOBSTEP_20150317_000064	$Obrigado, em nome da deusa.{nl}Eu prometo que as doações serão usadas para aqueles feridos pelos monstros. {nl}
 QUEST_JOBSTEP_20150317_000065	$Eu era um ladrão, eu eu percebi certas coisas e parei com minha vida criminosa. {nl}Mas existe uma pequena questão na minha cabeça... e eu quero resolve-la agora. {nl}
 QUEST_JOBSTEP_20150317_000066	{memo X}De qualquer forma, você fez um ótimo trabalho. {nl}Vamos cooperar a partir de agora , ensinando e aprendendo uns com os outros.
 QUEST_JOBSTEP_20150317_000067	{memo X}Eu estou procurando por um livro. Quatro livros por Lydia Schaffen. {nl}Se você me ajudar a encontar os livros, eu irei ensinar minhas habilidades à você. 
 QUEST_JOBSTEP_20150317_000068	$O livro costumava ficar na Miners' Village[#pending Miners' Village], mas ele foi perdido quando os Vubbes invadiram. {nl} Tente ir ao Vubbe Outpost [#pending Vubbe Outpost].
 QUEST_JOBSTEP_20150317_000069	$Esse é o livro. Você precisará deste livro se você deseja ser o melhor Arqueiro. {nl}Eu irei fazer uma cópia para você se você conseguir a coleção inteira. 
-QUEST_JOBSTEP_20150317_000070	{memo X}$O Quarrel Shooter Master esta com o próximo livro. {nl}ele estava procurando por Couro de Merog.Talvez você possa fazer um acordo com ele usando isso.
-QUEST_JOBSTEP_20150317_000071	{memo X}Você tem o Couro de Merog do Hunter Master[#pending Hunter Master]?
-QUEST_JOBSTEP_20150317_000072	$Isso é de boa qualidade. O Hunter Master[#pending Hunter Master] ficará agradecido. {nl}Pode pegar o livro. {nl}
-QUEST_JOBSTEP_20150317_000073	{memo X}$Os Merogs estão na Fallen Worry Forest[#pending Fallen Worry Forest], e o Quarrel Shooter Master[#pending Quarrel Shooter Master]esta em Klaipeda. {nl}, Alguém pode chegar na frente de você, então é melhor se apressar.
-QUEST_JOBSTEP_20150317_000074	$O Archer Master [#pending Archer Master] em Klaipeda tem o próximo livro. {nl}Ele não é uma pessoa má, então ele lhe dará o livro se pedir gentilmente. {nl}
+QUEST_JOBSTEP_20150317_000070	{memo X}$O Besteiro Mestre esta com o próximo livro. {nl}ele estava procurando por Couro de Merog.Talvez você possa fazer um acordo com ele usando isso.
+QUEST_JOBSTEP_20150317_000071	{memo X}Você tem o Couro de Merog da Caçadora Mestre?
+QUEST_JOBSTEP_20150317_000072	$Isso é de boa qualidade. A Caçadora Mestre ficará agradecido. {nl}Pode pegar o livro. {nl}
+QUEST_JOBSTEP_20150317_000073	{memo X}$Os Merogs estão na Fallen Worry Forest[#pending Fallen Worry Forest], e o Besteiro Mestre esta em Klaipeda. {nl}, Alguém pode chegar na frente de você, então é melhor se apressar.
+QUEST_JOBSTEP_20150317_000074	$O Arqueiro Mestre em Klaipeda tem o próximo livro. {nl}Ele não é uma pessoa má, então ele lhe dará o livro se pedir gentilmente. {nl}
 QUEST_JOBSTEP_20150317_000075	$Ele está ajudando com o reparo do muro danificado da cidade. {nl}Eu ouvi que as pedras vem da Miners'Village[#pending Miners'Village] , então trazer algumas para ele seria uma maneira de se aproximar. 
-QUEST_JOBSTEP_20150317_000076	$O Hunter Master[#pending Hunter Master] disse para você levar isso? {nl}Se você esta procurando o livro de Lydia Schaffen, você podia ter falado. Mas obrigado de qualquer maneira. 
+QUEST_JOBSTEP_20150317_000076	$A Caçadora Mestre disse para você levar isso? {nl}Se você esta procurando o livro de Lydia Schaffen, você podia ter falado. Mas obrigado de qualquer maneira. 
 QUEST_JOBSTEP_20150317_000077	$O último livro está com a Ranger Master[#pending Ranger Master] em Klaipeda. {nl}Entrega essa bolsa. {nl}Eu mesma poderia ir, Mas nós não nos sentimos confortáveis vendo um ao outro.
 QUEST_JOBSTEP_20150317_000078	$Não pergunte porquê. Trabalho é trabalho, e esse é o motivo de não querermos nos ver. 
 QUEST_JOBSTEP_20150317_000079	$Essa bolsa... Você vem à mando da Ranger Master[#pending Ranger Master]? {nl}Aqui. Leve este livro para ela. 
